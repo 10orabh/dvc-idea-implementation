@@ -1,0 +1,2 @@
+create a git rapo and clone it in local system
+create a makecsv.py in python which make dummy csv
