@@ -1,2 +1,8 @@
 create a git rapo and clone it in local system
 create a makecsv.py in python which make dummy csv
+git commit before initializing dvc
+git push before runnig
+We install dvc.
+we do dvc initializing through dvc init.
+we make s3 folder.
+we run store our data versioning in s3 folder.
