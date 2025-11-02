@@ -18,6 +18,8 @@ data = {
 # Create a DataFrame
 df = pd.DataFrame(data)
 
+# new data 
+
 # Create the file path using os.path.join
 file_path = os.path.join(folder_name, "people.csv")
 
